@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastansayyad&show_icons=true&locale=en" alt="mastansayyad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastansayyad&" alt="mastansayyad" /></p>
+
+**THANK YOU FOR THE VISIT :)**
