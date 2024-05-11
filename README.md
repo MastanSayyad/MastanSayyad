@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about: **JAVA Development and Exploring DSA.**
 
-- 💬 Ask me about **JAVA / SQL / Web Devlopment / Anime/ Dramas/ Anything.**
+- 💬 Ask me about **JAVA / SQL / Web Dev / Anime/ Dramas/ Anything.**
 
 - 📫 How to reach me **sayyadmastan78@gmail.com**
 
