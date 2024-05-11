@@ -12,7 +12,7 @@
 
 - ⚡ About me: **I'm a Kuudere with Lil Intelligence.**
 
-- 💎 **Smart Work + Hard work + Fast Learner + Quick Adaptation + Critical Thinking = ME**
+- 💎 **Smart Work + Hard work + Quick Adaptation + Critical Thinking = ME**
 
 -  📍 From **India**
 
