@@ -11,7 +11,10 @@
 - 📫 How to reach me **sayyadmastan78@gmail.com**
 
 - ⚡ About me: **I'm a Kuudere with Lil Intelligence.**
-- 📍 From **India** 
+
+- 💎 **Smart Work + Hard work + Fast Learner + Quick Adaptation + Critical Thinking = ME**
+
+-  📍 From **India**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
