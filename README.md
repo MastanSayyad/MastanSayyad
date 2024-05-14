@@ -13,7 +13,7 @@
 - ⚡ About me: **I'm a Kuudere with Lil Intelligence.**
 
 - 💎 **Smart Work + Hard work + Quick Adaptation + Critical Thinking = ME**
-- 🌎  I know **English, Hindi, Marathi, Telugu, Marwadi, Japanese, Turkish.**
+- 🌎  I know **English, Hindi, Marathi, Telugu, Japanese, Turkish.**
 
 -  📍 From **India**
 
