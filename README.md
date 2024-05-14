@@ -31,8 +31,8 @@
 
 <p>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastansayyad&show_icons=true&locale=en" alt="mastansayyad" /></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=mastansayyad&&show_icons=true&theme=radical"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastansayyad&" alt="mastansayyad" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MastanSayyad&theme=dark)](https://git.io/streak-stats)
 
 **THANK YOU FOR THE VISIT :)**
