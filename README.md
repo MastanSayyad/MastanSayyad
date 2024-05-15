@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mastansayyad&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-joshi-05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mastansayyad&label=Profile%20views&color=0e75b6&style=flat" alt="mastansayyad" /> </p>
 
 <h1 align="center">  Hi there! I'm Mastan Sayyad <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <h3 align="center">JAVA Developer/ Software Engineering Enthusiast | Open Source Contributer</h3>
