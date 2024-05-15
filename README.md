@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! I'm Mastan Sayyad <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mastansayyad&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-joshi-05" /> </p>
+
+<h1 align="center">  Hi there! I'm Mastan Sayyad <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <h3 align="center">JAVA Developer/ Software Engineering Enthusiast | Open Source Contributer</h3>
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"/>
