@@ -39,7 +39,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MastanSayyad&theme=dark)](https://git.io/streak-stats)
 
-<p> ****THANK YOU FOR THE VISIT **** <img height="300" align="center"  src="https://www.pngkey.com/png/full/240-2403216_celebi-pokemon-celebi.png" /> <p/>
-
+**THANK YOU FOR THE VISIT, DO FOLLOW AND STAY CONNECTED :)**
 
 
