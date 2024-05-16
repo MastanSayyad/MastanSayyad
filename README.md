@@ -7,7 +7,7 @@
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"/>
 
 
-- 🌱 I’m currently learning about: **JAVA Development and Exploring DSA.**
+- 🌱 I’m currently learning about: **JAVA Development and MERN.**
 
 - 💬 Ask me about **JAVA / SQL / Web Dev / Anime/ Dramas/ Anything.**
 
