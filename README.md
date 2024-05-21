@@ -2,14 +2,14 @@
 
 ![image](https://github.com/MastanSayyad/MastanSayyad/assets/101971980/3ff0f328-6d29-409d-9c88-ae31c930f613)
 <h1 align="center">  Hi there! I'm Mastan Sayyad <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
-<h3 align="center">JAVA Developer/ Software Engineering Enthusiast | Open Source Contributer</h3>
+<h3 align="center">JAVA Developer/ Software Engineering Enthusiast | Open Source Contributer | Graphic Designer</h3>
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"/>
 
 
 - 🌱 I’m currently learning about: **JAVA Development and MERN.**
 
-- 💬 Ask me about **JAVA / SQL / Web Dev / Anime/ Dramas/ Anything.**
+- 💬 Ask me about **JAVA / SQL / Web Dev / Anime / Designing / Anything.**
 
 - 📫 How to reach me **sayyadmastan78@gmail.com**
 
