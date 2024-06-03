@@ -19,6 +19,11 @@
 
 -  📍 From **India**
 
+#### GirlScript Summer Of Code (GSSoC'24) Achievement/Badges
+
+<img align="center" src="https://github.com/MastanSayyad/MastanSayyad/assets/101971980/d995ba3d-8ed3-4a72-8319-153041debe2a" alt="Description of image" width="" height="">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mastan-sayyad-126904223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mastan-sayyad-126904223" height="30" width="40" /></a>
