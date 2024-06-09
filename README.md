@@ -46,6 +46,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MastanSayyad&theme=radical)
 
-![](https://github-contributor-stats.vercel.app/api?username=MastanSayyad&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions&theme=radical)
 
 **THANK YOU FOR THE VISIT, DO FOLLOW AND STAY CONNECTED :)**
