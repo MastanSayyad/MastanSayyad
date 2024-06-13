@@ -20,7 +20,7 @@
 -  📍 From **India**
 
 #### GirlScript Summer Of Code (GSSoC'24) Achievement/Badges
-
+</br>
 <img align="center" src="https://github.com/MastanSayyad/MastanSayyad/assets/101971980/d995ba3d-8ed3-4a72-8319-153041debe2a" alt="Description of image" width="" height="">
 
 
