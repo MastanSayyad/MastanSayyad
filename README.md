@@ -5,18 +5,14 @@
 <h3 align="center">JAVA Developer/ Software Engineering Enthusiast | Open Source Contributer | Graphic Designer</h3>
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"/>
+<br> 
 
 - 🌱 I’m currently working on: [Visual Sort](https://visual-sort-pink.vercel.app/)
-
 - 💬 Ask me about **JAVA / SQL / Web Dev / Anime / Designing / Anything.**
-
 - 📫 How to reach me **sayyadmastan78@gmail.com**
-
 - ⚡ About me: **I'm a Kuudere with Lil Intelligence.**
-
 - 💎 **Smart Work + Hard work + Quick Adaptation + Critical Thinking = ME**
 - 🌎  I know **English, Hindi, Marathi, Telugu, Japanese, Turkish.**
-
 -  📍 From **India**
 
 <br>
