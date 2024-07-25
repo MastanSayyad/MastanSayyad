@@ -46,5 +46,5 @@
 
 
 <p align=center>
-<b>THANK YOU FOR THE VISIT, DO FOLLOW AND STAY CONNECTED :)</b>
+<b>THANK YOU FOR THE VISIT :)</b>
 </p>
