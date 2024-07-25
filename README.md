@@ -46,5 +46,6 @@
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=mastansayyad&theme=midnight-purple" alt="mastansayyad" />
 </p>
 
-
-**THANK YOU FOR THE VISIT, DO FOLLOW AND STAY CONNECTED :)**
+<p align=center>
+<b>THANK YOU FOR THE VISIT, DO FOLLOW AND STAY CONNECTED :)</b>
+</p>
