@@ -20,13 +20,16 @@
 -  📍 From **India**
 
 <br>
-
-[![Mastan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mastansayyad&bg_color=000000&color=7D0DC3&line=7D0DC3&point=7D0DC3&area=true&hide_border=false)](https://github.com/mastansayyad/github-readme-activity-graph)
+<br>
 
 <p>
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=mastansayyad&show_icons=true&locale=en&theme=midnight-purple"  alt="mastansayyad"/>
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=mastansayyad&theme=midnight-purple" alt="mastansayyad" />
 </p>
+
+
+
+[![Mastan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mastansayyad&bg_color=000000&color=7D0DC3&line=7D0DC3&point=7D0DC3&area=true&hide_border=false)](https://github.com/mastansayyad/github-readme-activity-graph)
 
 <p align=center>
 <b>THANK YOU FOR THE VISIT, DO FOLLOW AND STAY CONNECTED :)</b>
