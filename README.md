@@ -22,9 +22,26 @@
 <br>
 <br>
 
-<p>
+<table width="100%" align="center">
+<tr>
+<td>
+<img width="850em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mastansayyad&theme=2077">
+</td>
+</tr>
+</table>
+
+  <table width="100%" align="center">
+  <tr>
+<td>
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=mastansayyad&show_icons=true&locale=en&theme=midnight-purple"  alt="mastansayyad"/>
+</td>
+<td>
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=mastansayyad&theme=midnight-purple" alt="mastansayyad" />
+</td>
+</tr>
+</table>
+
+<p>
 </p>
 
 
