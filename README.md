@@ -5,7 +5,7 @@
 ![Profile Image](https://github.com/MastanSayyad/MastanSayyad/assets/101971980/3ff0f328-6d29-409d-9c88-ae31c930f613)
 
 <h1 align="center">
-  Hello! I'm Mastan Sayyad <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+  Hi there! I'm Mastan Sayyad <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
 
 <h3 align="center">
