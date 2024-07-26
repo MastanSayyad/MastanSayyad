@@ -2,14 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=mastansayyad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+![Profile Image](https://github.com/MastanSayyad/MastanSayyad/assets/101971980/3ff0f328-6d29-409d-9c88-ae31c930f613)
 <h1 align="center">
   Hi there! I'm Mastan Sayyad <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
-
-
-
-![Profile Image](https://github.com/MastanSayyad/MastanSayyad/assets/101971980/3ff0f328-6d29-409d-9c88-ae31c930f613)
-
 <h3 align="center">
   JAVA Developer | Software Engineering Enthusiast | Open Source Contributor | Graphic Designer
 </h3>
