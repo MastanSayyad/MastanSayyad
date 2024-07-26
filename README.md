@@ -32,7 +32,7 @@
     <tr>
     </tr>
     <tr>
-      <td>GirlScript Summer of Code (GSSoC)</td>
+      <td>GirlScript Summer of Code (GSSoC'24) </td>
       <td>
         <ul>
           <li>Role: <strong>Open Source Contributor</strong></li>
@@ -42,7 +42,7 @@
       </td>
     </tr>
     <tr>
-      <td>Vinyasa Summer of Code (VSoC)</td>
+      <td>Vinyasa Summer of Code (VSoC) 24</td>
       <td>
         <ul>
           <li>Role: <strong>Project Admin</strong></li>
