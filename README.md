@@ -3,9 +3,9 @@
 </p>
 
 ![Profile Image](https://github.com/MastanSayyad/MastanSayyad/assets/101971980/3ff0f328-6d29-409d-9c88-ae31c930f613)
-<h1 align="center">
-  Hi there! I'm Mastan Sayyad <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-</h1>
+
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Mastan Sayyad</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 
