@@ -16,27 +16,35 @@
 
 <br>
 
-- 🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/) - A project aimed at enhancing sorting algorithms with a visually interactive interface.
-- 💬 Ask Me About: **JAVA, SQL, Web Development, Anime, Designing, or anything else.** I'm always excited to discuss technology and design!
-- 📫 **Reach Me At:** [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com)
-- ⚡ About Me: **A Kuudere with a touch of intelligence.**
-- 💎**Smart Work + Hard work + Quick Adaptation + Critical Thinking + Honesty = ME**
-- 🌎 I Know **English, Hindi, Marathi, Telugu, Japanese, and Turkish (familiar)**.
-- 📍 **Location:** India
+ 🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/)<br>
+ 💬 Ask Me About: **JAVA, SQL, Web Development, Anime, Designing, or anything else.** <br>
+ 📫 **Reach Me At:** [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
+ ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
+ 💎 **Smart Work + Hard work + Quick Adaptation + Critical Thinking + Honesty = ME** <br>
+ 🌎 I Know **English, Hindi, Marathi, Telugu, Japanese, and Turkish (familiar)**. <br>
+ 📍 **Location:** India <br>
 
 
-### 🚀 **Open Source Contributions:**
+ <details><summary>🚀 Open Source Contributions: </summary>
+   <br>
+
   - **GirlScript Summer of Code (GSSoC):** Contributed to multiple open-source projects, including fixing UI/UX issues, adding FAQs, and enhancing features.
   - **Vinyasa Summer of Code (VSoC):** Worked as a **Project Admin**, managing GitHub repositories, assigning issues, guiding contributors, and resolving code conflicts. Successfully handled project administration and contributed to the project's growth and development.
 
-### 🌟 **Achievements:**
+   </details>
+
+<details><summary> 🌟 Achievements: </summary>
+  <br>
+
   - **Ranked 6th** out of 27,000 participants in GSSoC24.
   - **Conqurer Badge** recipient in GSSoC24.
   - **Over 200 GitHub Issues Raised** and **120+ Pull Requests Merged** during GSSoC24.
+</details>
+ <details><summary>🏆 Notable Projects: </summary>
+<br>
 
-### 🏆 **Notable Projects:**
   - [Visual Sort](https://visual-sort-pink.vercel.app/): A tool to visualize sorting algorithms with interactive elements.
- 
+ </details>
 <br>
 
 
