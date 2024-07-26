@@ -12,41 +12,42 @@
   JAVA Developer | Software Engineering Enthusiast | Open Source Contributor | Graphic Designer
 </h3>
 
-<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image"/>
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 <br>
 
- 🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/)<br>
- 💬 Ask Me About: **JAVA, SQL, Web Development, Anime, Designing, or anything else.** <br>
- 📫 **Reach Me At:** [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
- ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
- 💎 **Smart Work + Hard work + Quick Adaptation + Critical Thinking + Honesty = ME** <br>
- 🌎 I Know **English, Hindi, Marathi, Telugu, Japanese, and Turkish (familiar)**. <br>
- 📍 **Location:** India <br>
+🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/)<br>
+💬 Ask Me About: **JAVA, SQL, Web Development, Anime, Designing, or anything else.** <br>
+📫 **Reach Me At:** [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
+⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
+💎 **Smart Work + Hard work + Quick Adaptation + Critical Thinking + Honesty = ME** <br>
+🌎 I Know **English, Hindi, Marathi, Telugu, Japanese, and Turkish (familiar)**. <br>
+📍 **Location:** India <br>
 
-
- <details><summary>🚀 Open Source Contributions: </summary>
-   <br>
+<details><summary>🚀 Open Source Contributions: </summary>
+  <br>
 
   - **GirlScript Summer of Code (GSSoC):** Contributed to multiple open-source projects, including fixing UI/UX issues, adding FAQs, and enhancing features.
   - **Vinyasa Summer of Code (VSoC):** Worked as a **Project Admin**, managing GitHub repositories, assigning issues, guiding contributors, and resolving code conflicts. Successfully handled project administration and contributed to the project's growth and development.
 
-   </details>
+</details>
 
-<details><summary> 🌟 Achievements: </summary>
+<details><summary>🌟 Achievements: </summary>
   <br>
 
   - **Ranked 6th** out of 27,000 participants in GSSoC24.
-  - **Conqurer Badge** recipient in GSSoC24.
+  - **Conqueror Badge** recipient in GSSoC24.
   - **Over 200 GitHub Issues Raised** and **120+ Pull Requests Merged** during GSSoC24.
+
 </details>
- <details><summary>🏆 Notable Projects: </summary>
-<br>
+
+<details><summary>🏆 Notable Projects: </summary>
+  <br>
 
   - [Visual Sort](https://visual-sort-pink.vercel.app/): A tool to visualize sorting algorithms with interactive elements.
- </details>
-<br>
 
+</details>
+<br>
 
 <table width="100%" align="center">
 <tr>
