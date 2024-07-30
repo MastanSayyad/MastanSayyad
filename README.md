@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <td><a href="https://visual-sort-pink.vercel.app/">Visual Sort</a></td>
-      <td>A tool to visualize sorting algorithms with interactive elements.</td>
+      <td>Visual Sort is a web-based sorting algorithm visualization tool built using HTML, CSS, Bootstrap, SCSS, and JavaScript. This project provides an interactive way to visualize various sorting algorithms in action, helping users understand how different algorithms work and their efficiency in sorting data.</td>
     </tr>
   </table>
 </details>
