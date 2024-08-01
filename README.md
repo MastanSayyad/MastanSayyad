@@ -63,14 +63,6 @@
   </table>
 </details>
 
-<details><summary>🌟 Achievements:</summary>
-  <br>
-  <ul>
-    <li> <b>Ranked 6th</b> out of 27,000 participants in GSSoC24.</li>
-    <li> <b>Conqueror Badge</b> recipient in GSSoC24.</li>
-    <li> Over <b>200 GitHub Issues Raised</b>  and <b>150+ Pull Requests Merged</b>  during GSSoC24.</li>
-  </ul>
-</details>
 
 <details><summary>🏆 Notable Projects:</summary>
   <br>
