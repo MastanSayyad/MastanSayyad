@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=mastansayyad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Profile Image](https://github.com/MastanSayyad/MastanSayyad/assets/101971980/3ff0f328-6d29-409d-9c88-ae31c930f613)
+![Profile Banner](https://github.com/user-attachments/assets/cead573b-6fb5-42b7-8513-c73ea8059b19)
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Mastan Sayyad</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
