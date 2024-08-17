@@ -18,7 +18,6 @@
 - 📍 **Location:** India <br>
 
 <br>
-
 <br>
 
 ## GSSOC(24) Badges 🪶
