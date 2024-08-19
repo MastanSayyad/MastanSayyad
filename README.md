@@ -62,7 +62,6 @@
   </table>
 </details>
 
-
 <details><summary>🏆 Notable Projects:</summary>
   <br>
   <table width="100%">
