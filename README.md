@@ -92,7 +92,7 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=mastansayyad&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=mastansayyad&theme=radical" alt="Streak Stats"/>
+  <img width="420em" src="https://github.com/user-attachments/assets/8029244a-c064-4699-b1fd-d6573978d5d1" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
