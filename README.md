@@ -11,7 +11,7 @@
 - 🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/)<br>
 - 💬 Ask Me About: JAVA, SQL, Web Development, Anime, Designing, or anything. <br>
 - 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
-- ⚡ About Me: **I love helping** <br>
+- ⚡ About Me: **I try** <br>
 - 💎 Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
 - 📍 **Location:** India <br>
 
