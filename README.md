@@ -9,7 +9,7 @@
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 - 🌱 **Currently Working On:** [Visual Sort](https://visual-sort-pink.vercel.app/)<br>
-- 💬 Ask Me About: JAVA, SQL, Web Development, Anime, Designing, or anything. <br>
+- 💬 Ask Me About: JAVA, SQL, Development, Anime, Designing, or anything. <br>
 - 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
 - ⚡ About Me: **I try** <br>
 - 💎 Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<details><summary>🏆 Hacktoberfest Badges: </summary>
+<details><summary>🎖️ Hacktoberfest Badges: </summary>
   <br>
 <p align="center">
 <img width="800" height="426" alt="image" src="https://github.com/user-attachments/assets/84f37fe7-27c0-4cea-bc0d-414be000c746" />
