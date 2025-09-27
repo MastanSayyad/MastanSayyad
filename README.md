@@ -111,10 +111,12 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/sayyadmast3" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
+  <a href="https://buymeacoffee.com/sayyadmast3" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
+    <img height="40" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/>
   </a>
 </p>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
