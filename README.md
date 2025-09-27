@@ -33,6 +33,14 @@
 <br>
 <br>
 
+## Hacktoberfest Badges 🪶
+
+<p align="center">
+<img width="800" height="426" alt="image" src="https://github.com/user-attachments/assets/84f37fe7-27c0-4cea-bc0d-414be000c746" />
+</p>
+<br>
+<br>
+
 <details><summary>🚀 Open Source Contributions:</summary>
   <br>
   <table width="100%" align="center">
