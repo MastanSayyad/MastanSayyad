@@ -114,6 +114,7 @@
   <a href="https://buymeacoffee.com/sayyadmast3" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
     <img height="40" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/>
   </a>
+  <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif"/>
 </p>
 
 
