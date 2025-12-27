@@ -107,7 +107,7 @@
     <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/MastanSayyad?cardType=level&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-<img height=240 width=410 align="center" src="https://nirzak-streak-stats.vercel.app/?user=Wahid7852&theme=radical" />
+<img height=240 width=410 align="center" src="https://nirzak-streak-stats.vercel.app/?user=MastanSayyad&theme=radical" />
 
 </td>
 </tr>
