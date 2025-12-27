@@ -12,7 +12,7 @@
 - 🌱 **Currently building and developing Myself** <br>
 - ⚡ About Me: **I Know My Way Clear** <br>
 - 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
-- 💎 Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
+- 💎 Value **clarity, ownership, and continuous improvement** <br>
 - 📍 **Location:** India <br>
 
 <br>
