@@ -7,7 +7,7 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Mastan Sayyad</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-<img align="right" hspace="150"
+<img align="right" hspace="120"
      src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
      alt="Profile Image"
      width="350"/>
@@ -19,6 +19,7 @@
 - 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
 - 📍 **Location:** India <br>
 
+<br>
 <br>
 <br>
 <br>
