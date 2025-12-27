@@ -10,13 +10,16 @@
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 - 🌱 **Currently building and developing Myself** <br>
-- ⚡ About Me: **I Know My Way Clear** <br>
-- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
+- ⚡ About Me: **Determined** <br>
 - 💎 Value **clarity, ownership, and continuous improvement** <br>
+- 📈 Skills: **Java, SQL, OOP, Git & GitHub**
+- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
 - 📍 **Location:** India <br>
 
 <br>
 <br>
+<br>
+
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
