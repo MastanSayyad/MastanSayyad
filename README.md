@@ -107,7 +107,8 @@
     <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/MastanSayyad?cardType=level&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github.com/user-attachments/assets/8029244a-c064-4699-b1fd-d6573978d5d1" alt="Streak Stats"/>
+  <img width="420em" src="https://github.com/user-attachments/assets/cb9828c0-ed0c-40b3-8310-f89947864565" alt="Streak Stats"/>
+
 </td>
 </tr>
 </table>
