@@ -39,10 +39,10 @@
 </div>
 <br>
 
-### **Bad News:**  
+#### **Bad News:**  
 > No matter how hard you try to protect yourself, one day, you will fail.
 
-###  **Good News:**  
+####  **Good News:**  
 > When you fail, each passing day,  
 > it opens you up to new possibilities, often helping you emerge as the best version of you.
 
